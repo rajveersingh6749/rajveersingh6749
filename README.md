@@ -1,18 +1,16 @@
 <h1 align="center">Hi 👋, I'm Rajveer Singh</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajveersingh6749&label=Profile%20views&color=0e75b6&style=flat" alt="rajveersingh6749" /> </p>
 
-- 🌱 I’m currently learning **React.js**
-
-- 💬 Ask me about **CSS, JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript**
 
 - 📫 How to reach me **777rajveersingh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rajveer singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajveer singh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rajveer-singh-17699a223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajveer singh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/i20ma056" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="i20ma056" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/777rajveersingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="777rajveersingh" height="30" width="40" /></a>
 </p>
