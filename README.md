@@ -7,20 +7,20 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Pursuing **MSc in Mathematics** at SVNIT, Surat  
+- 🎓 Completed **MSc in Mathematics** from SVNIT, Surat  
 - 💡 Strong foundations in **Data Structures, Algorithms, and OOP**  
-- 🛠️ Experienced in **MERN Stack, REST APIs, JWT, Cloudinary, Socket.io, Google Generative AI**  
-- 🔍 Actively solving problems on **LeetCode, Codeforces & GeeksforGeeks** (300+ DSA problems)  
+- 🛠️ Experienced in **MERN Stack, REST APIs, JWT, Cloudinary, Socket.io, Google Gemini**  
+- 🔍 Actively solving problems on **LeetCode & GeeksforGeeks** (300+ DSA problems)  
 - 🎯 Goal: To build scalable applications that combine **efficiency, usability & AI**  
 
 ---
 
 ## 🛠️ Tech Stack
 **Languages:** C++, JavaScript (ES6+), SQL, HTML5, CSS3  
-**Frameworks & Libraries:** React.js, Node.js, Express.js, Tailwind CSS, Socket.io, Vite  
+**Frameworks & Libraries:** React.js, Node.js, Express.js, Tailwind CSS, Socket.io  
 **Databases:** MongoDB, MySQL  
 **Tools & Platforms:** Git, GitHub, VS Code, Postman  
-**Other:** REST APIs, JWT Authentication, Cloudinary, Multer, Google Generative AI  
+**Other:** REST APIs, JWT Authentication, Cloudinary, Multer, Google Gemini  
 
 ---
 
@@ -28,7 +28,7 @@
 
 ### 📌 [DevPrompt](https://github.com/rajveersingh6749/AI-Agent-MERN-Project)
 Real-time collaborative AI-powered coding platform  
-- ✨ Integrated **Google Generative AI** for runnable code snippets  
+- ✨ Integrated **Google Gemini AI** for runnable code snippets  
 - ⚡ Live sync with **Socket.io** for collaboration  
 - 🌐 **WebContainer API** to run Node.js code directly in browser  
 
