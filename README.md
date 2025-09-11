@@ -1,25 +1,72 @@
-<h1 align="center">Hi, I'm Rajveer Singh</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+# 👋 Hi, I'm Rajveer Singh
 
+🌟 **Aspiring Software Development Engineer (SDE-1)**  
+💻 Full-Stack Developer | MERN | AI Integrations | DSA Enthusiast  
+📍 India | ✉️ [Email Me](mailto:777rajveersingh@gmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/rajveersingh26/)  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajveersingh6749&label=Profile%20views&color=0e75b6&style=flat" alt="rajveersingh6749" /> </p>
+---
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+## 🚀 About Me
+- 🎓 Pursuing **MSc in Mathematics** at SVNIT, Surat  
+- 💡 Strong foundations in **Data Structures, Algorithms, and OOP**  
+- 🛠️ Experienced in **MERN Stack, REST APIs, JWT, Cloudinary, Socket.io, Google Generative AI**  
+- 🔍 Actively solving problems on **LeetCode, Codeforces & GeeksforGeeks** (300+ DSA problems)  
+- 🎯 Goal: To build scalable applications that combine **efficiency, usability & AI**  
 
-- 📫 How to reach me **777rajveersingh@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/rajveer-singh-17699a223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajveer singh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/i20ma056" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="i20ma056" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/777rajveersingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="777rajveersingh" height="30" width="40" /></a>
-</p>
+## 🛠️ Tech Stack
+**Languages:** C++, JavaScript (ES6+), SQL, HTML5, CSS3  
+**Frameworks & Libraries:** React.js, Node.js, Express.js, Tailwind CSS, Socket.io, Vite  
+**Databases:** MongoDB, MySQL  
+**Tools & Platforms:** Git, GitHub, VS Code, Postman  
+**Other:** REST APIs, JWT Authentication, Cloudinary, Multer, Google Generative AI  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajveersingh6749&show_icons=true&locale=en&layout=compact" alt="rajveersingh6749" /></p>
+## 🔥 Featured Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajveersingh6749&show_icons=true&locale=en" alt="rajveersingh6749" /></p>
+### 📌 [DevPrompt](https://github.com/rajveersingh6749/AI-Agent-MERN-Project)
+Real-time collaborative AI-powered coding platform  
+- ✨ Integrated **Google Generative AI** for runnable code snippets  
+- ⚡ Live sync with **Socket.io** for collaboration  
+- 🌐 **WebContainer API** to run Node.js code directly in browser  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajveersingh6749&" alt="rajveersingh6749" /></p>
+---
+
+### 📌 [IntelliReview](https://github.com/rajveersingh6749/code-reviewer)
+AI-powered code review tool  
+- 📝 Live editor with syntax highlighting  
+- 🤖 AI-based feedback with REST API  
+- 🚀 Boosts developer productivity by 25%  
+
+---
+
+### 📌 [VidSphere](https://github.com/rajveersingh6749/Streamify)
+Video-sharing platform backend  
+- 🎥 Video upload, streaming & community interaction  
+- 🔐 JWT + bcrypt.js for authentication  
+- ☁️ Cloudinary + Multer for media storage  
+
+---
+
+## 📊 GitHub Stats
+![Rajveer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajveersingh6749&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajveersingh6749&layout=compact&theme=tokyonight)  
+
+---
+
+## 🏆 Competitive Programming
+- Solved **300+ problems** on [LeetCode](https://leetcode.com/u/I20MA056/) | [GeeksforGeeks](https://www.geeksforgeeks.org/user/777rajveersingh/)  
+- Regular participation in coding contests  
+
+---
+
+## 🌐 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/rajveersingh26/)  
+- 🐦 [GitHub](https://github.com/rajveersingh6749)  
+- 📧 [Email](mailto:777rajveersingh@gmail.com)  
+
+---
+
+⭐️ From [rajveersingh6749](https://github.com/rajveersingh6749)
