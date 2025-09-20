@@ -18,7 +18,7 @@
 ## 🛠️ Tech Stack
 **Languages:** C++, JavaScript (ES6+), SQL, HTML5, CSS3  
 **Frameworks & Libraries:** React.js, Node.js, Express.js, Tailwind CSS, Socket.io  
-**Databases:** MongoDB, MySQL  
+**Databases:** MongoDB  
 **Tools & Platforms:** Git, GitHub, VS Code, Postman  
 **Other:** REST APIs, JWT Authentication, Cloudinary, Multer, Google Gemini  
 
