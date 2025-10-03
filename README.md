@@ -34,7 +34,7 @@ Real-time collaborative AI-powered coding platform
 
 ---
 
-### 📌 [IntelliReview](https://github.com/rajveersingh6749/code-reviewer)
+### 📌 [code-reviewer](https://github.com/rajveersingh6749/code-reviewer)
 AI-powered code review tool  
 - 📝 Live editor with syntax highlighting  
 - 🤖 AI-based feedback with REST API  
@@ -42,7 +42,7 @@ AI-powered code review tool
 
 ---
 
-### 📌 [VidSphere](https://github.com/rajveersingh6749/Streamify)
+### 📌 [Streamify](https://github.com/rajveersingh6749/Streamify)
 Video-sharing platform backend  
 - 🎥 Video upload, streaming & community interaction  
 - 🔐 JWT + bcrypt.js for authentication  
