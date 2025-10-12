@@ -1,26 +1,33 @@
-#  Hi there 👋, I'm Rajveer Singh Welcome to my Github page!
+#  Hi there 👋, Welcome to my Github page!
 
-🌟 **Aspiring Software Development Engineer (SDE-1)**  
-💻 Full-Stack Developer | MERN | AI Integrations | DSA Enthusiast  
+🌟 I’m Rajveer Singh, an aspiring Software Development Engineer passionate about building reliable, scalable systems.  
 📍 India | ✉️ [Email Me](mailto:777rajveersingh@gmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/rajveersingh26/)  
 
 ---
 
 ## 🚀 About Me
-- 🎓 Completed **MSc in Mathematics** from SVNIT, Surat  
-- 💡 Strong foundations in **Data Structures, Algorithms, and OOP**  
-- 🛠️ Experienced in **MERN Stack, REST APIs, JWT, Cloudinary, Socket.io, Google Gemini**  
-- 🔍 Actively solving problems on **LeetCode & GeeksforGeeks** (300+ DSA problems)  
-- 🎯 Goal: To build scalable applications that combine **efficiency, usability & AI**  
+🎓 Completed M.Sc. in Mathematics from SVNIT, Surat
+
+💡 Strong foundations in Data Structures, Algorithms, and Object-Oriented Programming
+
+🧠 Experienced in building backend systems and APIs using Node.js, Express.js, and MongoDB
+
+🌐 Familiar with frontend development using React.js and Tailwind CSS
+
+🔐 Worked with JWT authentication, Cloudinary, Multer, and Socket.io for real-time apps
+
+🤖 Currently exploring AI integrations using Google Gemini API
+
+🎯 Goal: To design and deploy scalable applications that blend efficiency, usability, and intelligence 
 
 ---
 
 ## 🛠️ Tech Stack
-**Languages:** C++, JavaScript (ES6+), SQL, HTML5, CSS3  
+**Languages:** C++, JavaScript (ES6+), HTML5, CSS3  
 **Frameworks & Libraries:** React.js, Node.js, Express.js, Tailwind CSS, Socket.io  
-**Databases:** MongoDB  
+**Databases:** SQL, MongoDB  
 **Tools & Platforms:** Git, GitHub, VS Code, Postman  
-**Other:** REST APIs, JWT Authentication, Cloudinary, Multer, Google Gemini   
+**Other:** REST APIs, JWT Authentication 
 
 ---
 
