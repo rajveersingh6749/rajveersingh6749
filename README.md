@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rajveer Singh
+#  Hi there 👋, I'm Rajveer Singh Welcome to my Github page!
 
 🌟 **Aspiring Software Development Engineer (SDE-1)**  
 💻 Full-Stack Developer | MERN | AI Integrations | DSA Enthusiast  
@@ -20,33 +20,7 @@
 **Frameworks & Libraries:** React.js, Node.js, Express.js, Tailwind CSS, Socket.io  
 **Databases:** MongoDB  
 **Tools & Platforms:** Git, GitHub, VS Code, Postman  
-**Other:** REST APIs, JWT Authentication, Cloudinary, Multer, Google Gemini  
-
----
-
-## 🔥 Featured Projects
-
-### 📌 [DevPrompt](https://github.com/rajveersingh6749/AI-Agent-MERN-Project)
-Real-time collaborative AI-powered coding platform  
-- ✨ Integrated **Google Gemini AI** for runnable code snippets  
-- ⚡ Live sync with **Socket.io** for collaboration  
-- 🌐 **WebContainer API** to run Node.js code directly in browser  
-
----
-
-### 📌 [code-reviewer](https://github.com/rajveersingh6749/code-reviewer)
-AI-powered code review tool  
-- 📝 Live editor with syntax highlighting  
-- 🤖 AI-based feedback with REST API  
-- 🚀 Boosts developer productivity by 25%  
-
----
-
-### 📌 [Streamify](https://github.com/rajveersingh6749/Streamify)
-Video-sharing platform backend  
-- 🎥 Video upload, streaming & community interaction  
-- 🔐 JWT + bcrypt.js for authentication  
-- ☁️ Cloudinary + Multer for media storage  
+**Other:** REST APIs, JWT Authentication, Cloudinary, Multer, Google Gemini   
 
 ---
 
