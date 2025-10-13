@@ -41,13 +41,3 @@
 - Solved **300+ problems** on [LeetCode](https://leetcode.com/u/I20MA056/) | [GeeksforGeeks](https://www.geeksforgeeks.org/user/777rajveersingh/)  
 - Regular participation in coding contests  
 
----
-
-## 🌐 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/rajveersingh26/)  
-- 🐦 [GitHub](https://github.com/rajveersingh6749)  
-- 📧 [Email](mailto:777rajveersingh@gmail.com)  
-
----
-
-⭐️ From [rajveersingh6749](https://github.com/rajveersingh6749)
