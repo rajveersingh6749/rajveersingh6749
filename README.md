@@ -33,8 +33,3 @@ I enjoy building scalable, reliable systems and continuously improving my proble
 - [LeetCode](https://leetcode.com/u/I20MA056/)  
 - [GeeksforGeeks](https://www.geeksforgeeks.org/user/777rajveersingh/)
 
----
-
-## 📊 GitHub Stats
-![Rajveer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajveersingh6749&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajveersingh6749&layout=compact&theme=tokyonight)
