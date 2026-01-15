@@ -1,43 +1,43 @@
-#  Hi there 👋, Welcome to my Github page!
+# Hi there 👋, I'm Rajveer Singh
 
-🌟 I’m Rajveer Singh, an aspiring Software Development Engineer passionate about building reliable, scalable systems.  
-📍 India | ✉️ [Email Me](mailto:777rajveersingh@gmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/rajveersingh26/)  
+Software Engineer with a strong foundation in Data Structures, Algorithms, and backend development.  
+I enjoy building scalable, reliable systems and continuously improving my problem-solving skills.
+
+📍 India  
+✉️ 777rajveersingh@gmail.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/rajveersingh26/)
 
 ---
 
 ## 🚀 About Me
-🎓 Completed M.Sc. in Mathematics from SVNIT, Surat
-
-💡 Strong foundations in Data Structures, Algorithms, and Object-Oriented Programming
-
-🧠 Experienced in building backend systems and APIs using Node.js, Express.js, and MongoDB
-
-🌐 Familiar with frontend development using React.js and Tailwind CSS
-
-🔐 Worked with JWT authentication, Cloudinary, Multer, and Socket.io for real-time apps
-
-🤖 Currently exploring AI integrations using Google Gemini API
-
-🎯 Goal: To design and deploy scalable applications that blend efficiency, usability, and intelligence 
+- 🎓 M.Sc. in Mathematics from SVNIT, Surat  
+- 💡 Strong in Data Structures, Algorithms, and Object-Oriented Programming  
+- 🧠 Backend development experience with **Node.js, Express.js, MongoDB**  
+- 🌐 Frontend experience with **React.js & Tailwind CSS**  
+- 🔐 Implemented **JWT authentication**, file uploads with **Multer & Cloudinary**  
+- ⚡ Built real-time features using **Socket.io**  
+- 🤖 Exploring AI integrations using **Google Gemini API**  
+- 🎯 Goal: Build scalable, efficient, and production-ready applications
 
 ---
 
 ## 🛠️ Tech Stack
 **Languages:** C++, JavaScript (ES6+), HTML5, CSS3  
-**Frameworks & Libraries:** React.js, Node.js, Express.js, Tailwind CSS, Socket.io  
-**Databases:** SQL, MongoDB  
-**Tools & Platforms:** Git, GitHub, VS Code, Postman  
-**Other:** REST APIs, JWT Authentication 
+**Backend:** Node.js, Express.js  
+**Frontend:** React.js, Tailwind CSS  
+**Databases:** MongoDB, SQL  
+**Tools:** Git, GitHub, VS Code, Postman  
+**Other:** REST APIs, JWT Authentication, Socket.io  
+
+---
+
+## 🧩 Problem Solving
+- Solved **600+ DSA problems**  
+- [LeetCode](https://leetcode.com/u/I20MA056/)  
+- [GeeksforGeeks](https://www.geeksforgeeks.org/user/777rajveersingh/)
 
 ---
 
 ## 📊 GitHub Stats
-![Rajveer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajveersingh6749&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajveersingh6749&layout=compact&theme=tokyonight)  
-
----
-
-## 🏆 DSA
-- Solved **300+ problems** on [LeetCode](https://leetcode.com/u/I20MA056/) | [GeeksforGeeks](https://www.geeksforgeeks.org/user/777rajveersingh/)  
-
-
+![Rajveer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajveersingh6749&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajveersingh6749&layout=compact&theme=tokyonight)
