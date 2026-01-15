@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Rajveer Singh
 
-Software Engineer with a strong foundation in Data Structures, Algorithms, and backend development.  
+React Developer with a strong foundation in Data Structures, Algorithms, and frontend development.  
 I enjoy building scalable, reliable systems and continuously improving my problem-solving skills.
 
 📍 India  
@@ -14,10 +14,7 @@ I enjoy building scalable, reliable systems and continuously improving my proble
 - 💡 Strong in Data Structures, Algorithms, and Object-Oriented Programming  
 - 🧠 Backend development experience with **Node.js, Express.js, MongoDB**  
 - 🌐 Frontend experience with **React.js & Tailwind CSS**  
-- 🔐 Implemented **JWT authentication**, file uploads with **Multer & Cloudinary**  
-- ⚡ Built real-time features using **Socket.io**  
-- 🤖 Exploring AI integrations using **Google Gemini API**  
-- 🎯 Goal: Build scalable, efficient, and production-ready applications
+- 🔐 Implemented **JWT authentication**   
 
 ---
 
@@ -26,8 +23,8 @@ I enjoy building scalable, reliable systems and continuously improving my proble
 **Backend:** Node.js, Express.js  
 **Frontend:** React.js, Tailwind CSS  
 **Databases:** MongoDB, SQL  
-**Tools:** Git, GitHub, VS Code, Postman  
-**Other:** REST APIs, JWT Authentication, Socket.io  
+**Tools:** Git, Postman  
+**Other:** REST APIs, JWT Authentication
 
 ---
 
