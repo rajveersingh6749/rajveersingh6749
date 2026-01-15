@@ -11,9 +11,9 @@ I enjoy building scalable, reliable systems and continuously improving my proble
 
 ## 🚀 About Me
 - 🎓 M.Sc. in Mathematics from SVNIT, Surat  
-- 💡 Strong in Data Structures, Algorithms, and Object-Oriented Programming  
-- 🧠 Backend development experience with **Node.js, Express.js, MongoDB**  
+- 💡 Strong in Data Structures, Algorithms, and Object-Oriented Programming
 - 🌐 Frontend experience with **React.js & Tailwind CSS**  
+- 🧠 Backend development with **Node.js, Express.js, MongoDB**   
 - 🔐 Implemented **JWT authentication**   
 
 ---
