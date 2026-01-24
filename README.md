@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Rajveer Singh
 
 React Developer with a strong foundation in Data Structures, Algorithms, and frontend development.  
-I enjoy building scalable, reliable systems and continuously improving my problem-solving skills.
+I enjoy building scalable systems and continuously improving my problem-solving skills.
 
 📍 India  
 ✉️ 777rajveersingh@gmail.com  
